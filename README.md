@@ -1,4 +1,4 @@
-# 3-Column-Preview
+# Meet Landing Page
 
 Front end mentor challenge : [Link](https://www.frontendmentor.io/solutions/meet-landing-page-T5fLtcFs1)
 
