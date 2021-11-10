@@ -10,6 +10,6 @@ Front end mentor challenge : [Link](https://www.frontendmentor.io/solutions/meet
   
 ## Demo
 
-https://loganwillaumez.github.io/meet-landing-page/
+https://loganwillaumez-frontendmentor.github.io/004-meet-landing-page/
 
   
